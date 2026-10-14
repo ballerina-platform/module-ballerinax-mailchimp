@@ -1,7 +1,7 @@
 # Ballerina Mailchimp connector
 
 [![Build](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/ci.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/ci.yml)
-[![Trivy](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/trivy-scan.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/trivy-scan.yml)
+[![Security Scan](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/security-scan.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/security-scan.yml)
 [![GraalVM Check](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/build-with-bal-test-graalvm.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mailchimp/actions/workflows/build-with-bal-test-graalvm.yml)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-mailchimp.svg)](https://github.com/ballerina-platform/module-ballerinax-mailchimp/commits/master)
 [![GitHub Issues](https://img.shields.io/github/issues/ballerina-platform/ballerina-library/module/mailchimp.svg?label=Open%20Issues)](https://github.com/ballerina-platform/ballerina-library/labels/module%mailchimp)
